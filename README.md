@@ -38,7 +38,7 @@ I specialize in building tools and applications that leverage **cryptography**, 
 
 
 
-### 🔒 **[Mojo Advanced Encryption Tool](https://github.com/Mojo-Corporation/Mojo-Advanced-Encryption-Tool)**  
+### 🔒 **[Mojo Advanced Encryption Tool](https://github.com/Muhammad-Noraeii/MAET)**  
 - Encrypts and decrypts files with advanced multi-level AES algorithms.
 - Password-protected access with robust error handling.
 - Includes detailed documentation and real-world use case examples.
