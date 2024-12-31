@@ -1,5 +1,5 @@
 # 👋 Welcome to Muhammad Noraeii's GitHub Profile!
-
+![Profile Views](https://komarev.com/ghpvc/?username=taha-daneshmand&color=blueviolet)
 ## 🌟 About Me
 Hi, I'm **Muhammad Noraeii**, a **Software Developer** and **Technology Enthusiast** passionate about solving real-world problems through innovative solutions. My journey revolves around developing secure, efficient, and scalable software systems.
 
