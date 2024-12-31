@@ -13,8 +13,7 @@ I specialize in building tools and applications that leverage **cryptography**, 
 - **C#: Expert Level**  
   My most proficient language, used extensively for back-end development, cryptographic tools, and scalable applications.
   
-- **C++: Intermediate**  
-  Strong understanding of C++ for system-level programming and performance-critical applications.
+
 
 - **Python: Basic**  
   Used for scripting, automation, and occasional prototyping.
@@ -42,6 +41,9 @@ I specialize in building tools and applications that leverage **cryptography**, 
 - Encrypts and decrypts files with advanced multi-level AES algorithms.
 - Password-protected access with robust error handling.
 - Includes detailed documentation and real-world use case examples.
+### 🕒 **[Mojo Timer](https://github.com/Muhammad-Noraeii/Mojo-Timer)
+- A simple Timer that you can put in your website
+- you can use this timer for work because its simple and esay to use
 
 
 
