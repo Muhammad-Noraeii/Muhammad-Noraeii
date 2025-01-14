@@ -1,5 +1,13 @@
-# 👋 Welcome to Muhammad Noraeii's GitHub Profile!
+# Hello World! I'm Muhammad-Noraeii 👋
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Wep+Developer;Game+Developer;Translator;Infrastructure+Expert)](https://git.io/typing-svg)
+
+</div>
+
+<img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Muhammad%Noraeii" />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Noraeii&color=blueviolet)
+
 ## 🌟 About Me
 Hi, I'm **Muhammad Noraeii**, a **Software Developer** and **Technology Enthusiast** passionate about solving real-world problems through innovative solutions. My journey revolves around developing secure, efficient, and scalable software systems.
 
@@ -33,7 +41,17 @@ I specialize in building tools and applications that leverage **cryptography**, 
 
 ---
 
-## 📚 Featured Projects
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Noraeii&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  
+</div>
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Noraeii&theme=tokyo-night)
+
 
 
 
