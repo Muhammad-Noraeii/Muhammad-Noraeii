@@ -44,13 +44,14 @@ I specialize in building tools and applications that leverage **cryptography**, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Noraeii&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Noraeii&theme=github" alt="GitHub Stats" height="165" />
+
+
   
 </div>
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Noraeii&theme=tokyo-night)
 
 
 
