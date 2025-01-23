@@ -15,7 +15,7 @@ I'm Muhammad Noraeii, a passionate coder, problem-solver, and lifelong learner e
 
 📬 Let's connect: Muhammad.Noraeii@gmail.com  
 
-My Web Site : https://Mojox.org
+My Web Site : https://Mojoeo.com
 
 ## 📊 GitHub Stats
 
