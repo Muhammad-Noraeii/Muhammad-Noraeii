@@ -23,5 +23,6 @@ My Web Site : https://Mojoeo.com
   <img src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Noraeii&theme=github" alt="GitHub Stats" height="165" />
   <img src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Noraeii&theme=github" alt="GitHub Stats" height="165" />
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Noraeii&layout=compact&theme=radical" alt="GitHub Stats" height="165" />
+  <img src ="https://github-readme-stats.vercel.app/api?username=Muhammad-Noraeii&show_icons=true&theme=radical" alt = "GitHub Stats" height="165" />
 </div>
 
