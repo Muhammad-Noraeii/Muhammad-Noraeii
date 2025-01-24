@@ -10,6 +10,7 @@ I'm a passionate **coder**, **problem-solver**, and **lifelong learner** explori
 - **Python**
 - **HTML**
 - **C#**
+- **Java Script**
 
 ## 📚 Always looking for exciting projects to learn from and collaborate on. 
 
