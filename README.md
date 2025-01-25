@@ -18,6 +18,7 @@ I'm a passionate **coder**, **problem-solver**, and **lifelong learner** explori
 - **[WikiPedia Tool](https://github.com/Muhammad-Noraeii/WikipediaTool)** – WikipediaTool is a command-line interface (CLI) tool for searching, viewing, and saving Wikipedia articles. It allows you to fetch article summaries, links, and full articles, with options to export them as PDF files.
 - **[CryptoBase](https://github.com/Muhammad-Noraeii/CryptoBase)** – Encrypt & Decrypt texts easily with Base64.
 - **[CSS Button Generator](https://github.com/Muhammad-Noraeii/CSS-Button-Generator)** – CSS Button Generator is a user-friendly tool for creating customizable CSS buttons, allowing users to adjust appearance and hover effects, and generate CSS code easily.
+- **[CurrencyConverter](https://github.com/Muhammad-Noraeii/CurrencyConverter)** A CurrencyConverter made with HTML & Java Script, It has more that 40 global currencies.
 
 ---
 ## 📚 Always looking for exciting projects to learn from and collaborate on. 
