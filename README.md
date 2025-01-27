@@ -37,6 +37,7 @@ Build solutions that make life simpler and better. 🌟
 ### My GitHub Activity:
 
 ![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Noraeii&show_icons=true&count_private=true&hide_title=true&hide=prs)
+![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Noraeii&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ### Top Languages:
 
