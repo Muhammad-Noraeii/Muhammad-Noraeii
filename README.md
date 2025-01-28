@@ -1,3 +1,44 @@
+# GitHub README Chess Tournament
+
+This is an open chess tournament where ANYONE can play. That's the fun part.  
+It's your turn to play! Move a <!-- BEGIN TURN -->?<!-- END TURN --> piece.
+
+<!-- BEGIN CHESS BOARD -->
+(Here goes the chess board)
+<!-- END CHESS BOARD -->
+
+**It's your turn to move! Choose one from the following table**
+<!-- BEGIN MOVES LIST -->
+(Here goes the list of legal moves)
+<!-- END MOVES LIST -->
+
+Having fun? Ask a friend to do the next move!
+
+#### How it works
+
+When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
+
+Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/marcizhu/readme-chess/issues) and I will try to fix it as soon as possible :D
+
+
+<details>
+  <summary>Last 5 moves in this game</summary>
+<!-- BEGIN LAST MOVES -->
+(Here goes the list of the last 5 moves)
+<!-- END LAST MOVES -->
+</details>
+
+<details>
+  <summary>Top 10 most moves across all games</summary>
+<!-- BEGIN TOP MOVES -->
+(Here goes the top 10 most moves)
+<!-- END TOP MOVES -->
+</details>
+
+---
+
+Do you want to make your own? Check out [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)!
+---
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=0E00FF00&width=435&lines=Hello;Hola;Bonjour;Hallo;Ciao;%E4%BD%A0%E5%A5%BD+;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+;%D8%B3%D9%84%D8%A7%D9%85;Merhaba;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+;Ol%C3%A1;%CE%93%CE%B5%CE%B9%CE%B1+%CF%83%CE%B1%CF%82;Hej)](https://git.io/typing-svg)
@@ -68,4 +109,3 @@ Build solutions that make life simpler and better. 🌟
 - **Open Source Projects**
 
 ---
-
