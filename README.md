@@ -8,7 +8,7 @@ I'm a seasoned developer with extensive experience in building scalable web appl
 - 🌱 I’m currently delving into: Java Script
 - 💬 Ask me about: Cloud Architecture, Microservices, and DevOps
 - 📫 How to reach me: [E-Mail](mailto:Muhammad.Noraeii@gmail.com)
-- 🔭 I'm currently working on: A new open-source project focused on Nothing Right Now!
+- 🔭 I'm currently working on: Nothing Right Now!
 - ⚡ Fun fact: I love Taking Photos and exploring nature in my free time.
 
 ## 🛠️ Technical Skills
