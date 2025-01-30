@@ -37,7 +37,6 @@ I'm a seasoned developer with extensive experience in building scalable web appl
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Noraeii&theme=default))
 
 ## 📊 GitHub Stats
 
