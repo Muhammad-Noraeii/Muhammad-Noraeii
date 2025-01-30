@@ -37,12 +37,14 @@ I'm a seasoned developer with extensive experience in building scalable web appl
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Noraeii&theme=default))
 
 ## 📊 GitHub Stats
 
-![Muhammad Noraeii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Noraeii&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Noraeii&layout=compact&theme=radical)
-
+![Muhammad Noraeii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Noraeii&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Noraeii&layout=compact&theme=default)
+![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Noraeii&color=blue)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad-Noraeii&theme=default)
 
 ## 🚀 Projects
 
