@@ -1,14 +1,15 @@
 # Hi there, I'm Muhammad Noraeii! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=0E00FF00&width=435&lines=Hello;Hola;Bonjour;Hallo;Ciao;%E4%BD%A0%E5%A5%BD+;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+;%D8%B3%D9%84%D8%A7%D9%85;Merhaba;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+;Ol%C3%A1;%CE%93%CE%B5%CE%B9%CE%B1+%CF%83%CE%B1%CF%82;Hej)](https://git.io/typing-svg)
+
 ## About Me
 
 I'm a seasoned developer with extensive experience in building scalable web applications, cloud solutions, and contributing to open-source projects. My passion lies in solving complex problems and sharing knowledge with the developer community. I enjoy learning new technologies and staying up-to-date with industry trends.
 
-- 🌱 I’m currently delving into: Java Script
-- 💬 Ask me about: Cloud Architecture, Microservices, and DevOps
+- 🌱 I’m currently delving into: **JavaScript**
+- 💬 Ask me about: **Cloud Architecture, Microservices, and DevOps**
 - 📫 How to reach me: [E-Mail](mailto:Muhammad.Noraeii@gmail.com)
-- 🔭 I'm currently working on: Nothing Right Now!
-- ⚡ Fun fact: I love Taking Photos and exploring nature in my free time.
+- 🔭 I'm currently working on: **Exciting new projects!**
+- ⚡ Fun fact: I love **taking photos and exploring nature** in my free time.
 
 ## 🛠️ Technical Skills
 
@@ -47,25 +48,25 @@ I'm a seasoned developer with extensive experience in building scalable web appl
 ## 🚀 Projects
 
 ### [Mojo Browser](https://github.com/Muhammad-Noraeii/Mojo-Browser)
-### Advanced Browser made with python
-- Blocking Java Script/Popup
+#### Advanced Browser made with Python
+- Blocking JavaScript/Popups
 - Choosing search engine
 - Bookmark and history
 
 ### [Crypto Base](https://github.com/Muhammad-Noraeii/CryptoBase)
 #### CryptoBase: A tool to encode and decode text in Base64, with a Dark Mode toggle and a Copy Result button for easy copying.
-- Simple UI that anyone loves it.
-- Copy Button for Copying fast
+- Simple UI that anyone loves.
+- Copy Button for fast copying
 
 ### [Currency Converter](https://github.com/Muhammad-Noraeii/CurrencyConverter)
-#### Advance Currency Converter 
-- more that 40 global currencies.
+#### Advanced Currency Converter 
+- Supports more than 40 global currencies.
 - SEO optimized.
-- Technologies: HTML, CSS and Java Script
+- Technologies: HTML, CSS, and JavaScript
 
 ## 📫 Connect with Me
 
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](x.com/MNoraeii)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MNoraeii)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhammad.Noraeii@gmail.com)
 
 Looking forward to connecting with you!
