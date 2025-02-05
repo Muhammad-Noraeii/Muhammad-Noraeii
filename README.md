@@ -46,6 +46,12 @@ I'm a seasoned developer with extensive experience in building scalable web appl
 
 ## 🚀 Projects
 
+### [Mojo Browser](https://github.com/Muhammad-Noraeii/Mojo-Browser)
+### Advanced Browser made with python
+- Blocking Java Script/Popup
+- Choosing search engine
+- Bookmark and history
+
 ### [Crypto Base](https://github.com/Muhammad-Noraeii/CryptoBase)
 #### CryptoBase: A tool to encode and decode text in Base64, with a Dark Mode toggle and a Copy Result button for easy copying.
 - Simple UI that anyone loves it.
