@@ -50,9 +50,6 @@ I'm Muhammad Noraeii, a seasoned developer with extensive experience in building
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Noraeii&layout=compact&theme=default)
 ![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Noraeii&color=blue)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad-Noraeii&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Noraeii&theme=default)
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Muhammad-Noraeii&count_private=true&show_icons=true&theme=default)
-
 ## 🚀 Projects
 
 ### [Mojo Browser](https://github.com/Muhammad-Noraeii/Mojo-Browser)
